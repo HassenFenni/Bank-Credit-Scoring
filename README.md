@@ -1,4 +1,4 @@
-# Bank-Credit-Scoring
+# Projet : Scoring d'un client d'une banque en vue de l'octroi d'un crédit
 
 Analyse, traitement et nettoyage des données de trois banques différentes pour créer un modèle d'apprentissage automatique qui permet de prédire si un client donné est capable de rembourser ou non son prêt bancaire et le déployer sur une plateforme web avec Python. 
 
@@ -22,7 +22,7 @@ Analyse, traitement et nettoyage des données de trois banques différentes pour
 - KMeans / CAH / DBSCAN
 6. Classification
 - KNN / RandomForest / Decision Tree / Logistic Regression / Naive bayes / LightGBM / XGBoost / CATBoost / ADAboost
-7. Dashbording
+7. Dashboarding
 - MVT(Model View Template)
   - BACK END (Pandas,Numpy,SKlearn)
   - FRONT END (Plotly,Dash,Flusk)
