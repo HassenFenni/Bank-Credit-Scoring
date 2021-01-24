@@ -2,8 +2,6 @@
 
 Analyse, traitement et nettoyage des données de trois banques différentes pour créer un modèle d'apprentissage automatique qui permet de prédire si un client donné est capable de rembourser ou non son prêt bancaire et le déployer sur une plateforme web avec Python. 
 
-Technologies: Python, Sklearn, Dash
-
 
 ## Methodology
 
